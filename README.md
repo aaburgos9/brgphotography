@@ -1,2 +1,2 @@
 # brgphotography
-landing page para sitio web de fotografia
+landing page para sitio web de fotografiaA
